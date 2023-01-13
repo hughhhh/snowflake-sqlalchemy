@@ -9,6 +9,10 @@ Source code is also available at:
 
 # Release Notes
 
+- v1.4.6(Unreleased)
+
+  - Fixed a bug introduced in release 1.4.5 that changes the returning data format.
+
 - v1.4.5(Dec 7, 2022)
 
   - Updated the application name of driver connection `SnowflakeConnection` to `SnowflakeSQLAlchemy`.
